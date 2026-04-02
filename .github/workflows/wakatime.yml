@@ -1,0 +1,19 @@
+name: Update README Stats
+
+on:
+  schedule:
+    # Roda as 21:30 BRT todos os dias
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: postEntropy/waka-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
