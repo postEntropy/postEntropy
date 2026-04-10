@@ -10,33 +10,33 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-16%20hrs%2041%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-18%20hrs%2014%20mins-blue?style=flat)
 
 **🐱 My GitHub Data**
 
-> 📦 332.4 kB used in GitHub's Storage
-> 🏆 Public repos: 7
+> 📦 334.0 kB used in GitHub's Storage
+> 🏆 Public repos: 8
 > 🚫 Not open to hire
 
 I'm 🐤 Daytime person
 
 ```text
 🌞 Morning           0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░  0.00%
-🌆 Daytime         139 commits   ████████████░░░░░░░░░░░░░  47.93%
-🌃 Evening         104 commits   █████████░░░░░░░░░░░░░░░░  35.86%
-🌙 Night            47 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.21%
+🌆 Daytime         142 commits   ████████████░░░░░░░░░░░░░  47.33%
+🌃 Evening         108 commits   █████████░░░░░░░░░░░░░░░░  36.00%
+🌙 Night            50 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.67%
 ```
 
 📅 I'm Most Productive on **Monday**
 
 ```text
-Monday          49 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.90%
-Tuesday         47 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.21%
-Wednesday       33 commits   ███░░░░░░░░░░░░░░░░░░░░░░  11.38%
-Thursday        41 commits   ████░░░░░░░░░░░░░░░░░░░░░  14.14%
-Friday          33 commits   ███░░░░░░░░░░░░░░░░░░░░░░  11.38%
-Saturday        38 commits   ███░░░░░░░░░░░░░░░░░░░░░░  13.10%
-Sunday          49 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.90%
+Monday          49 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.33%
+Tuesday         48 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.00%
+Wednesday       33 commits   ███░░░░░░░░░░░░░░░░░░░░░░  11.00%
+Thursday        48 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.00%
+Friday          35 commits   ███░░░░░░░░░░░░░░░░░░░░░░  11.67%
+Saturday        38 commits   ███░░░░░░░░░░░░░░░░░░░░░░  12.67%
+Sunday          49 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.33%
 ```
 
 📊 **This Week I Spent My Time On**
@@ -45,51 +45,50 @@ Sunday          49 commits   ████░░░░░░░░░░░░░
 🕑︎ Timezone: America/Sao_Paulo
 
 💬 Languages:
-Python                         8 hrs 13 mins        █████████████░░░░░░░░░░░░  53.2%
-JavaScript                     2 hrs 14 mins        ████░░░░░░░░░░░░░░░░░░░░░  14.5%
-TypeScript                     1 hr 9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░  7.5%
-Bash                           41 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  4.4%
-Markdown                       40 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  4.3%
-YAML                           34 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  3.7%
-Other                          27 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  3.0%
-CSS                            26 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  2.9%
-HTML                           22 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  2.5%
-Text                           18 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  2.0%
+Python                         7 hrs 58 mins        ███████████████░░░░░░░░░░  59.8%
+JavaScript                     2 hrs 12 mins        ████░░░░░░░░░░░░░░░░░░░░░  16.6%
+TypeScript                     37 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  4.7%
+YAML                           34 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  4.3%
+Markdown                       25 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  3.2%
+Bash                           21 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  2.6%
+Text                           17 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  2.2%
+CSS                            14 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░  1.9%
+Other                          12 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░  1.6%
+Git Config                     11 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░  1.5%
 
 🔥 Editors:
-OpenCode                       12 hrs 58 mins       █████████████████████░░░░  83.8%
-Antigravity                    2 hrs 30 mins        ████░░░░░░░░░░░░░░░░░░░░░  16.2%
+OpenCode                       12 hrs 48 mins       ████████████████████████░  95.9%
+Antigravity                    32 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  4.1%
 
 🐱‍💻 Projects:
-Unknown Project                6 hrs 2 mins         ██████████░░░░░░░░░░░░░░░  39.0%
-telegram-media-downloader      3 hrs 43 mins        ██████░░░░░░░░░░░░░░░░░░░  24.0%
-gear-optimizer-master          1 hr 48 mins         ███░░░░░░░░░░░░░░░░░░░░░░  11.7%
-fui-hackeado                   1 hr 35 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.3%
-consenso-26                    1 hr 15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░  8.1%
-postEntropy                    45 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  4.9%
-waka-readme                    17 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░  1.9%
+Unknown Project                5 hrs 55 mins        ███████████░░░░░░░░░░░░░░  44.3%
+telegram-media-downloader      3 hrs 44 mins        ███████░░░░░░░░░░░░░░░░░░  28.1%
+gear-optimizer-master          1 hr 48 mins         ███░░░░░░░░░░░░░░░░░░░░░░  13.5%
+fui-hackeado                   49 mins              ██░░░░░░░░░░░░░░░░░░░░░░░  6.2%
+postEntropy                    45 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  5.7%
+waka-readme                    17 mins              █░░░░░░░░░░░░░░░░░░░░░░░░  2.2%
 
 💻 OS:
-Linux                          15 hrs 28 mins       █████████████████████████  100.0%
+Linux                          13 hrs 21 mins       █████████████████████████  100.0%
 
 ```
 
 **I Mostly Code in**
 
 ```text
-TypeScript                     ██████████░░░░░░░░░░░░░░░  40.2%
-JavaScript                     ████████░░░░░░░░░░░░░░░░░  32.3%
-Python                         ███░░░░░░░░░░░░░░░░░░░░░░  10.4%
-HTML                           ██░░░░░░░░░░░░░░░░░░░░░░░  8.2%
-CSS                            █░░░░░░░░░░░░░░░░░░░░░░░░  5.5%
-Rust                           ░░░░░░░░░░░░░░░░░░░░░░░░░  1.5%
-Shell                          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.9%
-PLpgSQL                        ░░░░░░░░░░░░░░░░░░░░░░░░░  0.7%
+TypeScript                     ██████████░░░░░░░░░░░░░░░  38.2%
+JavaScript                     ████████░░░░░░░░░░░░░░░░░  32.6%
+Python                         ███░░░░░░░░░░░░░░░░░░░░░░  13.0%
+HTML                           ██░░░░░░░░░░░░░░░░░░░░░░░  7.8%
+CSS                            █░░░░░░░░░░░░░░░░░░░░░░░░  5.4%
+Rust                           ░░░░░░░░░░░░░░░░░░░░░░░░░  1.4%
+Shell                          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.8%
+PLpgSQL                        ░░░░░░░░░░░░░░░░░░░░░░░░░  0.6%
 C#                             ░░░░░░░░░░░░░░░░░░░░░░░░░  0.2%
 Dockerfile                     ░░░░░░░░░░░░░░░░░░░░░░░░░  0.1%
 ```
 
-_Last Updated on 09/04/2026 03:33:12 UTC_
+_Last Updated on 10/04/2026 03:45:43 UTC_
 <!--END_SECTION:waka-->
 
 ---
