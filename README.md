@@ -10,33 +10,33 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-166%20hrs%2015%20mins-blue?style=flat)
 
 **🐱 My GitHub Data**
 
-> 📦 319.2 kB used in GitHub's Storage
-> 🏆 Public repos: 10
+> 📦 29.9 kB used in GitHub's Storage
+> 🏆 Public repos: 9
 > 🚫 Not open to hire
 
 I'm 🐤 Daytime person
 
 ```text
 🌞 Morning           1 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░  0.15%
-🌆 Daytime         244 commits   █████████░░░░░░░░░░░░░░░░  37.42%
-🌃 Evening         230 commits   █████████░░░░░░░░░░░░░░░░  35.28%
-🌙 Night           177 commits   ███████░░░░░░░░░░░░░░░░░░  27.15%
+🌆 Daytime         258 commits   ██████████░░░░░░░░░░░░░░░  39.27%
+🌃 Evening         230 commits   █████████░░░░░░░░░░░░░░░░  35.01%
+🌙 Night           168 commits   ██████░░░░░░░░░░░░░░░░░░░  25.57%
 ```
 
 📅 I'm Most Productive on **Sunday**
 
 ```text
-Monday         103 commits   ████░░░░░░░░░░░░░░░░░░░░░  15.80%
-Tuesday         69 commits   ███░░░░░░░░░░░░░░░░░░░░░░  10.58%
-Wednesday       71 commits   ███░░░░░░░░░░░░░░░░░░░░░░  10.89%
-Thursday        90 commits   ███░░░░░░░░░░░░░░░░░░░░░░  13.80%
-Friday          76 commits   ███░░░░░░░░░░░░░░░░░░░░░░  11.66%
-Saturday       121 commits   █████░░░░░░░░░░░░░░░░░░░░  18.56%
-Sunday         122 commits   █████░░░░░░░░░░░░░░░░░░░░  18.71%
+Monday          99 commits   ████░░░░░░░░░░░░░░░░░░░░░  15.07%
+Tuesday         69 commits   ███░░░░░░░░░░░░░░░░░░░░░░  10.50%
+Wednesday       67 commits   ███░░░░░░░░░░░░░░░░░░░░░░  10.20%
+Thursday        82 commits   ███░░░░░░░░░░░░░░░░░░░░░░  12.48%
+Friday         111 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.89%
+Saturday       114 commits   ████░░░░░░░░░░░░░░░░░░░░░  17.35%
+Sunday         115 commits   ████░░░░░░░░░░░░░░░░░░░░░  17.50%
 ```
 
 📊 **This Week I Spent My Time On**
@@ -61,19 +61,19 @@ No Activity Tracked
 **I Mostly Code in**
 
 ```text
-TypeScript                     ████████░░░░░░░░░░░░░░░░░  33.0%
-JavaScript                     ███████░░░░░░░░░░░░░░░░░░  27.1%
-Python                         █████░░░░░░░░░░░░░░░░░░░░  19.4%
-HTML                           ███░░░░░░░░░░░░░░░░░░░░░░  13.5%
-CSS                            █░░░░░░░░░░░░░░░░░░░░░░░░  4.6%
-Rust                           ░░░░░░░░░░░░░░░░░░░░░░░░░  1.0%
-Shell                          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.7%
-PLpgSQL                        ░░░░░░░░░░░░░░░░░░░░░░░░░  0.5%
-C#                             ░░░░░░░░░░░░░░░░░░░░░░░░░  0.2%
+JavaScript                     ███████░░░░░░░░░░░░░░░░░░  28.8%
+Python                         ██████░░░░░░░░░░░░░░░░░░░  24.0%
+TypeScript                     ██████░░░░░░░░░░░░░░░░░░░  22.6%
+HTML                           ████░░░░░░░░░░░░░░░░░░░░░  17.9%
+CSS                            █░░░░░░░░░░░░░░░░░░░░░░░░  4.5%
+Rust                           ░░░░░░░░░░░░░░░░░░░░░░░░░  1.4%
+Shell                          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.3%
+C#                             ░░░░░░░░░░░░░░░░░░░░░░░░░  0.3%
 Dockerfile                     ░░░░░░░░░░░░░░░░░░░░░░░░░  0.1%
+PowerShell                     ░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 
-_Last Updated on 24/07/2026 03:51:41 UTC_
+_Last Updated on 25/07/2026 03:46:51 UTC_
 <!--END_SECTION:waka-->
 
 ---
