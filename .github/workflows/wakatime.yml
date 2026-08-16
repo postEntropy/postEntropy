@@ -2,8 +2,8 @@ name: Update README Stats
 
 on:
   schedule:
-    # Roda as 21:30 BRT todos os dias
-    - cron: '30 0 * * *'
+    # Roda as 21:30 BRT aos sábados (1x por semana)
+    - cron: '30 0 * * 0'
   workflow_dispatch:
 
 jobs:
