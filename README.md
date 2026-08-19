@@ -10,7 +10,7 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-166%20hrs%2015%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-167%20hrs%2026%20mins-blue?style=flat)
 
 **🐱 My GitHub Data**
 
@@ -22,21 +22,21 @@ I'm 🐤 Daytime person
 
 ```text
 🌞 Morning           1 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░  0.12%
-🌆 Daytime         333 commits   ██████████░░░░░░░░░░░░░░░  39.04%
-🌃 Evening         327 commits   ██████████░░░░░░░░░░░░░░░  38.34%
-🌙 Night           192 commits   ██████░░░░░░░░░░░░░░░░░░░  22.51%
+🌆 Daytime         335 commits   ██████████░░░░░░░░░░░░░░░  39.18%
+🌃 Evening         327 commits   ██████████░░░░░░░░░░░░░░░  38.25%
+🌙 Night           192 commits   ██████░░░░░░░░░░░░░░░░░░░  22.46%
 ```
 
 📅 I'm Most Productive on **Saturday**
 
 ```text
-Monday         129 commits   ████░░░░░░░░░░░░░░░░░░░░░  15.12%
-Tuesday        137 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.06%
-Wednesday       81 commits   ██░░░░░░░░░░░░░░░░░░░░░░░  9.50%
-Thursday        85 commits   ██░░░░░░░░░░░░░░░░░░░░░░░  9.96%
-Friday         137 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.06%
-Saturday       146 commits   ████░░░░░░░░░░░░░░░░░░░░░  17.12%
-Sunday         138 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.18%
+Monday         129 commits   ████░░░░░░░░░░░░░░░░░░░░░  15.09%
+Tuesday        137 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.02%
+Wednesday       83 commits   ██░░░░░░░░░░░░░░░░░░░░░░░  9.71%
+Thursday        85 commits   ██░░░░░░░░░░░░░░░░░░░░░░░  9.94%
+Friday         137 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.02%
+Saturday       146 commits   ████░░░░░░░░░░░░░░░░░░░░░  17.08%
+Sunday         138 commits   ████░░░░░░░░░░░░░░░░░░░░░  16.14%
 ```
 
 **I Mostly Code in**
@@ -48,13 +48,9 @@ TypeScript                     ██████░░░░░░░░░░�
 HTML                           ██░░░░░░░░░░░░░░░░░░░░░░░  8.9%
 CSS                            █░░░░░░░░░░░░░░░░░░░░░░░░  5.7%
 Rust                           ░░░░░░░░░░░░░░░░░░░░░░░░░  1.4%
-Shell                          ░░░░░░░░░░░░░░░░░░░░░░░░░  0.3%
-C#                             ░░░░░░░░░░░░░░░░░░░░░░░░░  0.3%
-Dockerfile                     ░░░░░░░░░░░░░░░░░░░░░░░░░  0.1%
-PowerShell                     ░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 
-_Last Updated on 19/08/2026 13:32:36 UTC_
+_Last Updated on 19/08/2026 13:36:55 UTC_
 <!--END_SECTION:waka-->
 
 ---
