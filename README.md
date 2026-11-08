@@ -10,48 +10,46 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-167%20hrs%2026%20mins-blue?style=flat)
-
 **🐱 My GitHub Data**
 
-> 📦 54.3 kB used in GitHub's Storage
-> 🏆 Public repos: 12
+> 📦 56.5 kB used in GitHub's Storage
+> 🏆 Public repos: 13
 > 🚫 Not open to hire
 
 I'm 🐤 Daytime person
 
 ```text
-🌞 Morning           3 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░  0.19%
-🌆 Daytime         622 commits   ██████████░░░░░░░░░░░░░░░  39.80%
-🌃 Evening         552 commits   █████████░░░░░░░░░░░░░░░░  35.32%
-🌙 Night           386 commits   ██████░░░░░░░░░░░░░░░░░░░  24.70%
+🌞 Morning           4 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░  0.25%
+🌆 Daytime         633 commits   ██████████░░░░░░░░░░░░░░░  39.59%
+🌃 Evening         569 commits   █████████░░░░░░░░░░░░░░░░  35.58%
+🌙 Night           393 commits   ██████░░░░░░░░░░░░░░░░░░░  24.58%
 ```
 
 📅 I'm Most Productive on **Friday**
 
 ```text
-Monday         225 commits   ████░░░░░░░░░░░░░░░░░░░░░  14.40%
-Tuesday        273 commits   ████░░░░░░░░░░░░░░░░░░░░░  17.47%
-Wednesday      182 commits   ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
-Thursday       184 commits   ███░░░░░░░░░░░░░░░░░░░░░░  11.77%
-Friday         281 commits   ████░░░░░░░░░░░░░░░░░░░░░  17.98%
-Saturday       185 commits   ███░░░░░░░░░░░░░░░░░░░░░░  11.84%
-Sunday         233 commits   ████░░░░░░░░░░░░░░░░░░░░░  14.91%
+Monday         235 commits   ████░░░░░░░░░░░░░░░░░░░░░  14.70%
+Tuesday        276 commits   ████░░░░░░░░░░░░░░░░░░░░░  17.26%
+Wednesday      184 commits   ███░░░░░░░░░░░░░░░░░░░░░░  11.51%
+Thursday       184 commits   ███░░░░░░░░░░░░░░░░░░░░░░  11.51%
+Friday         285 commits   ████░░░░░░░░░░░░░░░░░░░░░  17.82%
+Saturday       193 commits   ███░░░░░░░░░░░░░░░░░░░░░░  12.07%
+Sunday         242 commits   ████░░░░░░░░░░░░░░░░░░░░░  15.13%
 ```
 
 **I Mostly Code in**
 
 ```text
-TypeScript                     ███████████░░░░░░░░░░░░░░  45.7%
-Python                         █████░░░░░░░░░░░░░░░░░░░░  19.0%
-JavaScript                     ████░░░░░░░░░░░░░░░░░░░░░  14.5%
-Swift                          ██░░░░░░░░░░░░░░░░░░░░░░░  8.2%
-CSS                            █░░░░░░░░░░░░░░░░░░░░░░░░  4.2%
-HTML                           █░░░░░░░░░░░░░░░░░░░░░░░░  3.9%
-Java                           █░░░░░░░░░░░░░░░░░░░░░░░░  3.3%
+TypeScript                     ████████████░░░░░░░░░░░░░  47.1%
+Python                         █████░░░░░░░░░░░░░░░░░░░░  18.3%
+JavaScript                     ███░░░░░░░░░░░░░░░░░░░░░░  14.0%
+Swift                          ██░░░░░░░░░░░░░░░░░░░░░░░  8.4%
+CSS                            █░░░░░░░░░░░░░░░░░░░░░░░░  4.1%
+HTML                           █░░░░░░░░░░░░░░░░░░░░░░░░  3.8%
+Java                           █░░░░░░░░░░░░░░░░░░░░░░░░  3.2%
 ```
 
-_Last Updated on 01/11/2026 06:39:22 UTC_
+_Last Updated on 08/11/2026 06:32:54 UTC_
 <!--END_SECTION:waka-->
 
 ---
